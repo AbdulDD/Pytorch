@@ -1,2 +1,2 @@
 # Pytorch
-The repository contains the re-implemented codes for the course PyTorch Ultimate Guide on Coursera
+The repository contains Python Scratch and PyTorch Implementations for different basic ML/DL Tasks
